@@ -1,0 +1,32 @@
+title: Grav
+# metadata:
+default_lang: eng
+creator: '@mrdemonwolf'
+author:
+  name: Joe Bloggs
+  email: 'joe@test.com'
+  phone: +1 234 567 8910
+  phoneAlt: +12345678910
+  location: Sate, United States
+  type: Organization
+  jobtitle:  Founder
+  foundingDate: 2018
+  nationality: American
+  url: https://www.example.com
+GoogleAnalytics: UA-xxxxx-1
+social:
+  -
+    icon: 'fab fa-twitter'
+    color: 'twitter-color'
+    url: 'http://www.twitter.com/mrdemonwolf'
+
+# If using comments
+# disqus: mrdemonwolf-local
+#
+
+# If using custom menu
+customMenu: false
+# links:
+#     -
+#       title: Home
+#       url: 'https://www.mrdemonwolf.me'
