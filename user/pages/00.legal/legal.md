@@ -5,7 +5,7 @@ visible: false
 Privacy Policy
 --------------
 
-MrDemonWolf operates the www.mrdemonwolf.me website, which provides the SERVICE.
+Boilerplate operates the www.boilerplate.me website, which provides the SERVICE.
 
 This page is used to inform website visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
